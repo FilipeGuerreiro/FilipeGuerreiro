@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- BackEnd Developer at V8 Tech<br>- Spring Framework enthusiast</p>
+<p align="left">- Java Developer<br>- BackEnd Developer at V8 Tech<br>- Spring Framework enthusiast<br>- Systems Analysis and Development - Sptech (3/5) </p>
 
 ###
 
