@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
+<!--   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  /> -->
 </div>
 
 ###
