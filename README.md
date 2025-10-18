@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- BackEnd Developer at V8 Tech<br>- Spring Framework enthusiast<br>- Systems Analysis and Development - Sptech (4/5) </p>
+<p align="left">- Java Developer<br>- BackEnd Developer at V8 Tech<br>- Spring Framework enthusiast<br>- Systems Analysis and Development - Sptech (4/5)<br>- Currently learning Kotlin and Android development</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  /> -->
 </div>
