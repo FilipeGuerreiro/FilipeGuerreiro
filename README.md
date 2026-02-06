@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- BackEnd Developer at V8 Tech<br>- Spring Framework enthusiast<br>- Systems Analysis and Development - Sptech (4/5)<br>- Currently learning Kotlin and Android development</p>
+<p align="left">- Java Developer<br>- BackEnd Developer at V8 Tech<br>- Spring Framework enthusiast<br>- Systems Analysis and Development - Sptech (5/5)<br>- Currently learning Kotlin and Android development</p>
 
 ###
 
